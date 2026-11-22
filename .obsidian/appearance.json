@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Helvetica,Bodoni 72,Source Code Pro",
+  "accentColor": "#ecad41",
+  "textFontFamily": "Helvetica",
+  "monospaceFontFamily": "Source Code Pro",
+  "nativeMenus": true
+}
